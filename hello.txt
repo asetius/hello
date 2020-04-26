@@ -1,0 +1,2 @@
+Here should be java code with text "Hello, world".
+Record text with command echo
